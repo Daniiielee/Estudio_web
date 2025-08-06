@@ -1,0 +1,42 @@
+body{
+        background-color: aquamarine;
+}
+#s1 {
+        #titulo1{
+                    font-size: 80;
+                    text-align: center;
+                    font-style: italic;
+                    color: black;
+        }
+        #titulo2{
+                    font-size: 50;
+                    text-align: center;
+                    font-style: italic;
+                    color: black;
+        }
+                    
+}
+#s2{
+        display: grid;
+        grid-template-columns: auto auto;
+
+        #parrafo1{
+                    font-size: 30;
+                    text-align: justify;
+                    font-style: italic;
+                    color: black;
+        }
+        #boton1{
+            background-color: aqua;
+            border-radius: 10%;
+            height: 40px;
+            width: 80px;
+        }
+}
+#s3{
+    font-size: 140;
+    text-align: center;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+                
